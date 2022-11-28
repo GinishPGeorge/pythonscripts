@@ -1,0 +1,3 @@
+How to execute commands with back ticks
+If you need to include the output of a complex command in your script
+you can write the statement inside back ticks.
